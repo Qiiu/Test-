@@ -10,9 +10,6 @@ S change
 5 change
 6 master change
 7 dev change
-<<<<<<< HEAD
 8 master change agin
-=======
-8 dev change agin
 9 dev change agin
->>>>>>> dev
+10 dev change agin
